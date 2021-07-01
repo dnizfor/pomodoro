@@ -1,5 +1,7 @@
 ﻿# Pomodoro 
+ 
 Pomotro is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
+
 
 
 # Features
@@ -32,4 +34,8 @@ Pomodoro is built with  Python.
 > - Python
 > - PyQt5
 > - Python Threading Module
+
+# Screen Shot
+
+![pomodoro](https://github.com/dnizfor/pomodoro/blob/main/media/creenshot.png)
 
